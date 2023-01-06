@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aragonense&label=Profile%20views&color=0e75b6&style=flat" alt="aragonense" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aragonlima" target="blank"><img src="https://img.shields.io/twitter/follow/aragonlima?logo=twitter&style=for-the-badge" alt="aragonlima" /></a> </p>
+
 
 - 🌱 I’m currently learning **Javascript, PHP, HTML, CSS, React, Node, Java**
 
