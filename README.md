@@ -23,7 +23,7 @@ Although I'm documenting my recent projects in English, most of them are in Port
 
 **HTML | CSS | JavaScript**
 
--   ✨[Alura Plus](https://github.com/zingarelli/aluraplus): this is currently my biggest project, in which I've developed several pages for a fictitious e-commerce company. I used HTML, CSS and JavaScript, "mobile first design" and BEM methodology. Products are displayed dinamically (using a mocked API response), form fields have HTML and JS validation, login and searchbox are functional (you can search products by name).  [View it online](https://aragonense.github.io/aluraplus/).
+-   ✨[Alura Plus](https://github.com/aragonense/aluraplus): this is currently my biggest project, in which I've developed several pages for a fictitious e-commerce company. I used HTML, CSS and JavaScript, "mobile first design" and BEM methodology. Products are displayed dinamically (using a mocked API response), form fields have HTML and JS validation, login and searchbox are functional (you can search products by name).  [View it online](https://aragonense.github.io/aluraplus/).
 
 
 <h3 align="left">Languages and Tools:</h3>
