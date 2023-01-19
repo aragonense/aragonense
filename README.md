@@ -3,19 +3,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aragonense&label=Profile%20views&color=0e75b6&style=flat" alt="aragonense" /> </p>
 
+[Ver esta página em Português](https://github.com/aragonense#bem-vindo)
 
+Thank you for visiting my GitHub Profile!
 
-- 🌱 I’m currently learning **Javascript, PHP, HTML, CSS, React, Node, Java**
+🎓  My goal is to become a  **Full Stack Developer**, to turn your concepts and ideias into responsive and interactive web pages, apps and build useful, scalable and usable applications. Seeking to use concepts such as clean code and SOLID as premises.
 
-- 📫 How to reach me **aragonense@gmail.com**
+🌱  I’m currently learning  **React** , **HTML**,  **CSS** , **PHP**  and expanding my knowledge in  **JavaScript**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aragonlima/](https://www.linkedin.com/in/aragonlima/)
+📫  You can message me on  [LinkedIn](https://www.linkedin.com/in/aragonlima/)  or send me an  [e-mail](mailto:aragonense@gmail.com).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aragonlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aragonlima" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aragonlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aragonlima" height="30" width="40" /></a>
-</p>
+### [](https://github.com/aragonense#projects-%EF%B8%8F)Projects  🖥️
+
+Most of my repos are projects developed in the courses I take at  [Alura](https://www.alura.com.br/), a brazilian online school of technology.
+
+Although I'm documenting my recent projects in English, most of them are in Portuguese. If any of those in Portuguese piques your interest and you want to know more about it, please contact me.
+
+🔖  In order to help you, below you can find some projects I've selected and organized by topics, with links to the repo and online version (when available):
+
+**HTML | CSS | JavaScript**
+
+-   ✨[Alura Plus](https://github.com/zingarelli/aluraplus): this is currently my biggest project, in which I've developed several pages for a fictitious e-commerce company. I used HTML, CSS and JavaScript, "mobile first design" and BEM methodology. Products are displayed dinamically (using a mocked API response), form fields have HTML and JS validation, login and searchbox are functional (you can search products by name).  [View it online](https://aragonense.github.io/aluraplus/).
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
